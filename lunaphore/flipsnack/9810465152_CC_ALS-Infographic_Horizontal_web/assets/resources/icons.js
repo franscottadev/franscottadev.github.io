@@ -1,0 +1,1 @@
+window.icons_vt9wk99xu3 = function() { return {};}
